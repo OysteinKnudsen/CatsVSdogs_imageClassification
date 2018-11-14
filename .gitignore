@@ -8,4 +8,4 @@ data/
 
 .vscode/*
 
-.npy/
+.npy/*.h5/
